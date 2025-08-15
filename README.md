@@ -1,3 +1,87 @@
+# Healthcare Accessibiliy in Africa
+## Table of contents
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Recommendations](#recommendations)
+### Project Overview
+### Data Sources
+### Tools
+- Excel - Data Cleaning
+   - [Download here](https://microsoft.com)
+- Power BI - Creating Reports(Visualization)
+- SQL server - Data Analysis 
+- Python 
+### Data Cleaning/Preparation
+In the following data preparationn phase we perform the following tasks:
+1. Data loading and inspection
+2. Handling missing values
+3. Data Cleaning and formatting
+
+### Exploratory Data Analysis
+- What is the overall sales trend
+- Which products are top sellers
+- What are the peek sales periods
+
+### DAta Analysis
+Include some interesting codes/features worked with
+```sql
+
+SELECT * FROM table1
+WHERE cond = 1;
+```
+### Results/Findings
+The analysis results are summarized as follows
+1. The companys sals have been steadily increasing over the past year, with a noticeable peek
+2. Product category A is the best performing category in terms of sales and revenue
+3. Customer segments with high lifestyle value should be targeted for marketing efforts
+
+### Recommendations
+Based on rhe analysis, we recommend the following actions:
+- Invest in marketing and proportions daring peek sales seasons to maximize revenuw
+- Focus on expanding and promoting products in category A
+- Implement a customer segmentation strategy to largest high customers effectively
+
+### Limitations
+I have to remove all zero values from budget and revenue columns becausse they would have affected the data and few outliers after the omissions but even then we can still see that there is a positive
+
+### References
+
+1. Sql for Business by Werty
+2. [Stack Overflow](https://stack.com)
+
+
+This dashboard provides a comprehensive view on healthcare accessibility in Africa.
+
+
+
+📍 Data Overview:
+
+🔹 Rural vs. Urban Healthcare Disparities: This dataset provides insights into the distribution of healthcare facilities, the number of doctors and nurses, and patient accessibility across different regions. 
+
+
+
+🔹 Healthcare Workforce Availability: This dataset includes information on the availability of doctors and nurses per facility and how this varies between urban and rural locations. 
+
+
+
+🔹 Patient Accessibility and Utilization: The dataset tracks annual patient visits, average distance to facilities, and emergency response times, helping assess accessibility in different regions. 
+
+
+
+🔹 Funding and Resource Allocation: This dataset explores the funding received by healthcare facilities and their access to essential services like electricity and the internet. 
+
+
+
+🔹 Patient Satisfaction and Healthcare Outcomes: Patient satisfaction rates serve as indicators of service quality, while other factors like emergency response times help evaluate healthcare.
+
+
+
+📍 I noticed from the disparities that there are no much differences in terms of satisfaction to services rendered, timing for an emergency case aswell as the funding efficiency in health centers, hospitals and clinics.
+
+
+
+📍 Let's hear your thought under the comment section on the disparities and what you noticed!
+
 ⚡**ABOUT ME**
 I am a results-driven Data Analyst with expertise in Microsoft Excel, SQL, and Power BI, delivering actionable insights that drive strategic decision-making and operational efficiency. With a passion for transforming complex data into meaningful insights, uncovering trends, identifying performance gaps, and visualizing data.
 
