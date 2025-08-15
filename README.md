@@ -4,9 +4,17 @@
 - [Data Sources](#data-sources)
 - [Recommendations](#recommendations)
 ### Project Overview
+---
 This project is centered on healthcare accessibility in Africa
 ![Umuahii Youths Associatio 20190427_174211](https://github.com/user-attachments/assets/d48c777d-3ffd-4b85-a10b-aa738db97f3b)
 
+😄
+
+💻
+!Heading1!Heading2!
+|Heading2|Heading1|
+|content|Content2|
+|Python||SQL|
 
 ### Data Sources
 ### Tools
@@ -52,6 +60,12 @@ I have to remove all zero values from budget and revenue columns becausse they w
 
 1. Sql for Business by Werty
 2. [Stack Overflow](https://stack.com)
+
+`Column1`
+
+**bold**
+
+*italics*
 
 
 This dashboard provides a comprehensive view on healthcare accessibility in Africa.
