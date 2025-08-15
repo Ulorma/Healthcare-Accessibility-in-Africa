@@ -4,6 +4,9 @@
 - [Data Sources](#data-sources)
 - [Recommendations](#recommendations)
 ### Project Overview
+![Umuahii Youths Associatio 20190427_174211](https://github.com/user-attachments/assets/d48c777d-3ffd-4b85-a10b-aa738db97f3b)
+
+
 ### Data Sources
 ### Tools
 - Excel - Data Cleaning
@@ -22,7 +25,7 @@ In the following data preparationn phase we perform the following tasks:
 - Which products are top sellers
 - What are the peek sales periods
 
-### DAta Analysis
+### Data Analysis
 Include some interesting codes/features worked with
 ```sql
 
