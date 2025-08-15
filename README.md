@@ -4,6 +4,7 @@
 - [Data Sources](#data-sources)
 - [Recommendations](#recommendations)
 ### Project Overview
+This project is centered on healthcare accessibility in Africa
 ![Umuahii Youths Associatio 20190427_174211](https://github.com/user-attachments/assets/d48c777d-3ffd-4b85-a10b-aa738db97f3b)
 
 
