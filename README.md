@@ -1,12 +1,10 @@
 # Healthcare Accessibiliy in Africa
-## Table of contents
-- [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
-- [Recommendations](#recommendations)
 ### Project Overview
 ---
 This project is centered on healthcare accessibility in Africa
-![Umuahii Youths Associatio 20190427_174211](https://github.com/user-attachments/assets/d48c777d-3ffd-4b85-a10b-aa738db97f3b)
+![IMG-20250407-WA0063](https://github.com/user-attachments/assets/eb2eb0c4-2fdf-4426-85df-94b50845087a)
+![IMG-20250407-WA0065](https://github.com/user-attachments/assets/861e0d1c-4c01-4739-8acc-38fbfdaaf543)
+
 
 😄
 
