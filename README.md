@@ -2,7 +2,9 @@
 ### Project Overview
 ---
 This project is centered on healthcare accessibility in Africa
+
 ![IMG-20250407-WA0063](https://github.com/user-attachments/assets/eb2eb0c4-2fdf-4426-85df-94b50845087a)
+
 ![IMG-20250407-WA0065](https://github.com/user-attachments/assets/861e0d1c-4c01-4739-8acc-38fbfdaaf543)
 
 
